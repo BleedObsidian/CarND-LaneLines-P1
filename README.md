@@ -1,3 +1,7 @@
+This is my submission for project 1 of the Udacity Self-Driving Car Engineer Nanodegree. My work is contained within the template jupyter notebook P1.
+
+The following has been left for reference:
+
 # **Finding Lane Lines on the Road** 
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
